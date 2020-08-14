@@ -8,5 +8,7 @@ FrontEnd is nearly finished
 
 TODO:
 
-Backend with SQLite and algorithm for quoteRetrievel 
+-SwipeCards for quotes
+
+-Backend with SQLite and algorithm for quoteRetrievel 
 (https://github.com/sgtSeme4ki/feelQuoteQuoteRetrieval)
